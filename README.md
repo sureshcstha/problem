@@ -27,7 +27,7 @@ Your program needs to generate hints that help the user formulate their next gue
 '~' = correct color guess in WRONG location
 
 ## Demo
-![Image of command line version](https://github.com/sureshcstha/problem/blob/master/images/sample.JPG)
+![Image of command line version](https://github.com/sureshcstha/problem/blob/master/images/demo.JPG)
 
 
 ## Edge Cases
